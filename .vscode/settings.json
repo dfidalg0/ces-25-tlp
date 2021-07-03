@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "*.njk": "html",
+        "*.html": "html",
+        "*.djt": "django-html",
+        "*.pgf": "latex",
+        "*.tcc": "cpp",
+        "optional": "cpp",
+        "algorithm": "cpp",
+        "random": "cpp",
+        "istream": "cpp",
+        "numeric": "cpp",
+        "streambuf": "cpp",
+        "type_traits": "cpp",
+        "valarray": "cpp",
+        "tuple": "cpp"
+    }
+}
